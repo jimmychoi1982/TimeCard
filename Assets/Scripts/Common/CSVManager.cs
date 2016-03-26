@@ -12,7 +12,7 @@ public class CSVManager
 	public static void Save (string fileName)
 	{
 
-		// Creating First row of titles manually..
+		// Creating First row of titles manually..//
 		string[] rowDataTemp = new string[8];
 		rowDataTemp [0] = "月";
 		rowDataTemp [1] = "日";
